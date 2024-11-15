@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Introducción a la Asignatura IAW: Implantación de Aplicaciones Web"
-date: 2024-11-08
 author: "Bruno"
 ---
 
